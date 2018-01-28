@@ -1,0 +1,11 @@
+D:\Srinivasan\VSTS2018\coremvc2\obj\Debug\netcoreapp2.0\coremvc2.csprojResolveAssemblyReference.cache
+D:\Srinivasan\VSTS2018\coremvc2\obj\Debug\netcoreapp2.0\coremvc2.csproj.CoreCompileInputs.cache
+D:\Srinivasan\VSTS2018\coremvc2\obj\Debug\netcoreapp2.0\coremvc2.AssemblyInfoInputs.cache
+D:\Srinivasan\VSTS2018\coremvc2\obj\Debug\netcoreapp2.0\coremvc2.AssemblyInfo.cs
+D:\Srinivasan\VSTS2018\coremvc2\bin\Debug\netcoreapp2.0\coremvc2.deps.json
+D:\Srinivasan\VSTS2018\coremvc2\bin\Debug\netcoreapp2.0\coremvc2.runtimeconfig.json
+D:\Srinivasan\VSTS2018\coremvc2\bin\Debug\netcoreapp2.0\coremvc2.runtimeconfig.dev.json
+D:\Srinivasan\VSTS2018\coremvc2\bin\Debug\netcoreapp2.0\coremvc2.dll
+D:\Srinivasan\VSTS2018\coremvc2\bin\Debug\netcoreapp2.0\coremvc2.pdb
+D:\Srinivasan\VSTS2018\coremvc2\obj\Debug\netcoreapp2.0\coremvc2.dll
+D:\Srinivasan\VSTS2018\coremvc2\obj\Debug\netcoreapp2.0\coremvc2.pdb
